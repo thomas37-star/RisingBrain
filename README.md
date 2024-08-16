@@ -14,7 +14,7 @@ license: other
 ## 🧠 RisingBrain: Your Future-Forward AI-Powered OS 🚀
 
 <p align='center'>
-  <img align='center' src='Brain/assets/img/logo.png' width='70%' />
+  <img align='center' src='https://github.com/user-attachments/assets/5169cd11-f03e-4ea2-9362-4e7080b682b2' width='70%' />
     <p align='center'>🧠 <b>RisingBrain</b>: Your Future-Forward AI-Powered OS 🚀</p>
 </p>
 
@@ -27,9 +27,9 @@ Sounds exciting?😂 Let's dive into it! 🏊‍♂️
 ## 1. Look What We've Achieved! 🏆
 
 <p align='center'>
-  <img align='center' src='Brain/assets/img/instruction.png' width='88%' />
-  <img align='center' src='Brain/assets/img/android_desc.png' width='100%' />
-  <img align='center' src='Brain/assets/img/extension&watch.png' width='88%' />
+  <img align='center' src='https://github.com/user-attachments/assets/a752712d-d453-4c10-8409-6c184eca9da9' width='88%' />
+  <img align='center' src='https://github.com/user-attachments/assets/bdf768d6-bab6-4e8d-9c4a-8c23b35908d9' width='100%' />
+  <img align='center' src='https://github.com/user-attachments/assets/3f81d28c-dbb1-41dc-87ac-d6add46a307d' width='88%' />
 </p>
 
 Key features of **RisingBrain** that will make you fall in love with your OS all over again:
